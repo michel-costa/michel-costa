@@ -20,7 +20,7 @@
 <br><br>
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stac
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Michel-HTML" height="30" width="40"
