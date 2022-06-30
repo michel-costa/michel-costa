@@ -9,7 +9,7 @@
 
 - 🔥 Estudante de Tecnologias
 
-- 👨‍💻 Programando em HTML, CSS, JavaScript e Node.JS
+- 👨‍💻 Programando em HTML, CSS, JavaScript, Node.JS e Python.
 
 - 🎵  Gosto de Ouvir Musicas
 
