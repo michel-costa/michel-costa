@@ -9,6 +9,8 @@
 
 - 🔥 Estudante de Tecnologias
 
+- 🛡️ Estudante de Cybersecurity e Hacking.
+
 - 👨‍💻 Programando em HTML, CSS, JavaScript, Node.JS e Python.
 
 - 🎵  Gosto de Ouvir Musicas
