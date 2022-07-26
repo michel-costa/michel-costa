@@ -7,19 +7,21 @@
     </p>
   </div>
 
-- 🔥 Estudante de Tecnologias
+- 🔥 Estudante de Tecnologias.
 
-- 🛡️ Estudante de Cybersecurity
-- 🛡 Hacking.
-- 🕵 🔍
+- 🛡️ Cybersecurity e Segurança da Informação.
 
-- 👨‍💻 Programando em HTML, CSS, JavaScript, Node.JS e Python.
+- ☠️ Hacking, Segurança Ofensiva e Hacking Investigador.
 
-- 🎵  Gosto de Ouvir Musicas
+- 🕵 Computação Forense e Forense Digital.
 
-- 🕹  Games
+- 👨‍💻 Programando em Python, HTML, CSS e JavaScript.
 
-- 🏎️  Formula 1
+- 🎵  Gosto de Ouvir Musicas.
+
+- 🕹  Games.
+
+- 🏎️  Formula 1.
 
 <br><br>
 
