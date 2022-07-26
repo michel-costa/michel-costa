@@ -9,7 +9,9 @@
 
 - 🔥 Estudante de Tecnologias
 
-- 🛡️ Estudante de Cybersecurity e Hacking.
+- 🛡️ Estudante de Cybersecurity
+- 🛡 Hacking.
+- 🕵 🔍
 
 - 👨‍💻 Programando em HTML, CSS, JavaScript, Node.JS e Python.
 
