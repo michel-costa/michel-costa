@@ -17,7 +17,7 @@
 
 - 👨‍💻 Programando em Python, HTML, CSS e JavaScript.
 
-- 🎵  Gosto de Ouvir Musicas.
+- 🎵  Amante da música Eletrônica.
 
 - 🕹  Games.
 
