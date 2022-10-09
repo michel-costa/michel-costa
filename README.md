@@ -8,15 +8,15 @@
   </div>
 
 
-- 🛡️ Cybersecurity | Red Team.
+- 🛡️ Segurança da Informação | Cybersecurity | Red Team.
 
-- ☠️ Hacking | OffSec.
+- ☠️ Hacking | OffSec | Pentest.
 
 - 🕵 Computação Forense | Forense Digital | Hacking Investigador.
 
-- 👨‍💻 Desenvolvedor Fron End | HTML | CSS | JavaScript & Python.
+- 👨‍💻 Desenvolvedor Front-End: JavaScript | React & Python.
 
-- 🎵  Amante da música Eletrônica.
+- 🎵  Amante da Música Eletrônica.
 
 - 🕹  Games.
 
