@@ -7,15 +7,14 @@
     </p>
   </div>
 
-- 🔥 Estudante de Tecnologias.
 
-- 🛡️ Cybersecurity e Segurança da Informação.
+- 🛡️ Cybersecurity | Red Team.
 
-- ☠️ Hacking, Segurança Ofensiva e Hacking Investigador.
+- ☠️ Hacking | OffSec.
 
-- 🕵 Computação Forense e Forense Digital.
+- 🕵 Computação Forense | Forense Digital | Hacking Investigador.
 
-- 👨‍💻 Programando em Python, HTML, CSS e JavaScript.
+- 👨‍💻 Desenvolvedor Fron End | HTML | CSS | JavaScript & Python.
 
 - 🎵  Amante da música Eletrônica.
 
