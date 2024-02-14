@@ -14,13 +14,17 @@
 
 - 🕵 Computação Forense | Forense Digital | Hacking Investigador.
 
-- 👨‍💻 Desenvolvedor Front-End: JavaScript | React & Python.
+- 👨‍💻 Desenvolvedor Front-End: JavaScript | Python.
 
 - 🎵  Amante da Música Eletrônica.
 
-- 🕹  Games.
+- 🕹  Jogos | Games | Nerdist.
 
-- 🏎️  Formula 1.
+- 🏎️  Formula 1 | Ciclismo | Corrida.
+
+- 🧘🏻 Yoga | Meditação | Filosofia.
+
+- 🧠 Autoconhecimento | Psicologia.
 
 <br><br>
 
@@ -88,8 +92,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-costa&layout=compact&theme=outrun"
         alt="michel-costa's most languages" />
   </p>
-  
-  ![Snake animation](https://github.com/michel-costa/michel-costa/blob/output/github-contribution-grid-snake.svg)
  
   
   </div>
