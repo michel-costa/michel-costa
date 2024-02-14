@@ -5,28 +5,10 @@
     </p>
   </div>
 
+  
+  <br><br>
 
-- 🛡️ Segurança da Informação | Cybersecurity | Red Team.
-
-- ☠️ Hacking | OffSec | Pentest.
-
-- 🕵 Computação Forense | Forense Digital | Hacking Investigador.
-
-- 👨‍💻 Desenvolvedor Front-End: JavaScript | Python.
-
-- 🎵  Amante da Música Eletrônica.
-
-- 🕹  Jogos | Games | Nerdist.
-
-- 🏎️  Formula 1 | Ciclismo | Corrida.
-
-- 🧘🏻 Yoga | Meditação | Filosofia.
-
-- 🧠 Autoconhecimento | Psicologia.
-
-<br><br>
-
-
+  
 ## 🛠 &nbsp;Tech Stac
 
 <div style="display: inline_block"><br>
