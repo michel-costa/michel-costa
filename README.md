@@ -64,14 +64,14 @@
 ## 🖊️ Certificates
 
 
-<a href="https://www.credly.com/badges/ede1c1c5-c2c7-4267-a9ec-de3e01f69f81/public_url"><img
-    src="./Imagens/aws-340-340.png" alt="AWS Certified Cloud Practitioner" align="left" width="100px">
+<a href="https://www.credly.com/badges/ede1c1c5-c2c7-4267-a9ec-de3e01f69f81/public_url"><img src="./Imagens/aws.png"
+    alt="AWS Certified Cloud Practitioner" align="left" width="100px">
   <a href="https://www.credly.com/badges/2ff1cc8a-36a0-4dc6-8267-915633d53a83/public_url"><img
-      src="./Imagens/re-start-graduate-340-340.png" alt="AWS re/Start Graduate" align="left" width="100px">
+      src="./Imagens/re-start-graduate.png" alt="AWS re/Start Graduate" align="left" width="100px">
     <a
-      href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3B3431D849288D61A44D6B2DFFA5C1428F0E90DFB6A265D8EF4A17896D50346"><img
-        src="./Imagens/oracle-foundations-340-340.png" alt="Oracle Cloud Infrastructure Foundations Associate"
-        align="left" width="100px">
+      href="https://catalog-education.oracle.com/pls/certview/sharebadge id=C3B3431D849288D61A44D6B2DFFA5C1428F0E90DFB6A265D8EF4A17896D50346"><img
+        src="./Imagens/oracle-foundations.png" alt="Oracle Cloud Infrastructure Foundations Associate" align="left"
+        width="100px">
 
 
       <br><br>
