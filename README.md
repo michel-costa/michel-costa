@@ -85,6 +85,8 @@
 
 <a href="https://www.credly.com/badges/f335a372-aa8d-4136-8d1e-9d1d2d9d2a38/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
 
+
+
   
 <br><br>
 
