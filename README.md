@@ -49,11 +49,9 @@
     <a href="https://www.linkedin.com/in/michelc13/" target="_blank"><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"></a>
-
     <a href="https://codepen.io/michelk13" target="_blank"><img
         src="https://img.shields.io/badge/-codepen.io-%23333?style=for-the-badge&logo=codepen.io&logoColor=white"
         target="_blank"></a>
-
     <a href="mailto:michel.mcs.admpf@gmail.com" target="_blank"><img
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
@@ -68,11 +66,8 @@
 
 <a href="https://www.credly.com/badges/ede1c1c5-c2c7-4267-a9ec-de3e01f69f81/public_url"><img
     src="./Imagens/aws-340-340.png" alt="AWS Certified Cloud Practitioner" align="left" width="100px">
-
   <a href="https://www.credly.com/badges/2ff1cc8a-36a0-4dc6-8267-915633d53a83/public_url"><img
       src="./Imagens/re-start-graduate-340-340.png" alt="AWS re/Start Graduate" align="left" width="100px">
-
-  
     <a
       href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3B3431D849288D61A44D6B2DFFA5C1428F0E90DFB6A265D8EF4A17896D50346"><img
         src="./Imagens/oracle-foundations-340-340.png" alt="Oracle Cloud Infrastructure Foundations Associate"
