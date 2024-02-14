@@ -3,7 +3,7 @@
       src="https://raw.githubusercontent.com/gist/michel-costa/65d97cf8115c38ffbe7edc66970ec116/raw/4d3cfb86187fb7aa2a918f27c91fce9af898db16/githubcard.svg" />
     <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
         width="30px">, I'm Michel Costa</h1>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=michel-costa&color=yellow" alt="Profile views" />
+    <p align="left"> alt="Profile views" />
     </p>
   </div>
 
