@@ -14,37 +14,26 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Michel-HTML" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
   <img align="center" alt="Michel-CSS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
   <img align="center" alt="Michel-Js" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
   <img align="center" alt="Michel-Node" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
   <img align="center" alt="Michel-vscode" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
   <img align="center" alt="Michel-git" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
   <img align="center" alt="Michel-React" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
   <img align="center" alt="Michel-Python" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   <img align="center" alt="Michel-yarn" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-
   <img align="center" alt="Michel-npm" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-
   <img align="center" alt="Michel-linux" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
   <img align="center" alt="Michel-ubuntu" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
@@ -76,15 +65,14 @@
 
 ## 🖊️ Certificates
 
-//AWS
+
 <a href="https://www.credly.com/badges/ede1c1c5-c2c7-4267-a9ec-de3e01f69f81/public_url"><img
     src="./Imagens/aws-340-340.png" alt="AWS Certified Cloud Practitioner" align="left" width="100px">
 
-  // Re Start
   <a href="https://www.credly.com/badges/2ff1cc8a-36a0-4dc6-8267-915633d53a83/public_url"><img
       src="./Imagens/re-start-graduate-340-340.png" alt="AWS re/Start Graduate" align="left" width="100px">
 
-    // Oracle
+  
     <a
       href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C3B3431D849288D61A44D6B2DFFA5C1428F0E90DFB6A265D8EF4A17896D50346"><img
         src="./Imagens/oracle-foundations-340-340.png" alt="Oracle Cloud Infrastructure Foundations Associate"
