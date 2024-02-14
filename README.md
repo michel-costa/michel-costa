@@ -12,13 +12,17 @@
 
 - 🕵 Computação Forense | Forense Digital | Hacking Investigador.
 
-- 👨‍💻 Desenvolvedor Front-End: JavaScript | React & Python.
+- 👨‍💻 Desenvolvedor Front-End: JavaScript | Python.
 
 - 🎵  Amante da Música Eletrônica.
 
-- 🕹  Games.
+- 🕹  Jogos | Games | Nerdist.
 
-- 🏎️  Formula 1.
+- 🏎️  Formula 1 | Ciclismo | Corrida.
+
+- 🧘🏻 Yoga | Meditação | Filosofia.
+
+- 🧠 Autoconhecimento | Psicologia.
 
 <br><br>
 
