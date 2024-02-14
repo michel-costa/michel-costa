@@ -74,6 +74,17 @@
       </p>
   </div>
    
+<br><br>
+
+
+## 🖊️ Certificates
+
+  <a href="[https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url](https://www.credly.com/badges/ede1c1c5-c2c7-4267-a9ec-de3e01f69f81/public_url)"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Badge" align="left" width="100px">
+
+<a href="[https://www.credly.com/badges/7a88d71f-81be-4e21-8a63-7ddaff612bef/public_url](https://www.credly.com/badges/2ff1cc8a-36a0-4dc6-8267-915633d53a83/public_url)"><img src="https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png" alt="Git Certified Associate Badge" align="left" width="100px">
+
+<a href="https://www.credly.com/badges/f335a372-aa8d-4136-8d1e-9d1d2d9d2a38/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Badge" align="left" width="100px">
+
   
 <br><br>
 
