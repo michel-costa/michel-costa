@@ -42,13 +42,23 @@
 
 ---
 
+```markdown
 # ☁️ AWS Services
 
 <p align="left">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,ec2,s3,lambda,iam,vpc,rds,cloudwatch,route53,dynamodb" />
+<img src="https://skillicons.dev/icons?i=aws" height="48"/>
 
 </p>
+
+- Amazon EC2
+- Amazon S3
+- AWS Lambda
+- AWS IAM
+- Amazon DynamoDB
+- Amazon CloudWatch
+```
+
 
 ---
 
