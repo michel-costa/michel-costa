@@ -15,7 +15,6 @@
   - LinkedIn: https://www.linkedin.com/in/michelc13/
   - Email: michel.mcs.admpf@gmail.com
 
-<!-- WIP
 
 ### Technologies
 
@@ -29,7 +28,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <br />
 
--->
 
 ### GitHub Stats
 
