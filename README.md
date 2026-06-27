@@ -1,97 +1,121 @@
-<div>
-    <img align="right" height="590em"
-      src="https://raw.githubusercontent.com/gist/michel-costa/65d97cf8115c38ffbe7edc66970ec116/raw/4d3cfb86187fb7aa2a918f27c91fce9af898db16/githubcard.svg" />
-    <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-        width="30px">, I'm Michel Costa</h1>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=michel-costa&color=yellow" alt="Profile views" />
-    </p>
-  </div>
+# <div align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Michel Costa</div>
 
+<div align="center">
 
-- 🛡️ Segurança da Informação | Cybersecurity | Red Team.
+### ☁️ Cloud Computing • AWS • Front-end Development
 
-- ☠️ Hacking | OffSec | Pentest.
+*Building secure, scalable and modern cloud solutions while continuously improving my skills in AWS and software development.*
 
-- 🕵 Computação Forense | Forense Digital | Hacking Investigador.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=michel-costa&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
 
-- 👨‍💻 Desenvolvedor Front-End: JavaScript | Python.
+</div>
 
-- 🎵  Amante da Música Eletrônica.
+---
 
-- 🕹  Jogos | Games | Nerdist.
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/michel-costa/65d97cf8115c38ffbe7edc66970ec116/raw/4d3cfb86187fb7aa2a918f27c91fce9af898db16/githubcard.svg"/>
 
-- 🏎️  Formula 1 | Ciclismo | Corrida.
+## 👨‍💻 About Me
 
-- 🧘🏻 Yoga | Meditação | Filosofia.
+* ☁️ Passionate about **Cloud Computing** and **Amazon Web Services (AWS)**
+* 🏗️ Aspiring **AWS Solutions Architect**
+* 💻 Front-end Developer
+* 🌱 Currently studying **AWS**, **JavaScript**, **React** and **Python**
+* 🔐 Interested in **Cybersecurity** and **Information Security**
+* 📚 Lifelong learner
+* 🧘 Yoga • Meditation • Philosophy
+* 🎵 Electronic Music
+* 🏎️ Formula 1 • Cycling • Running • Tennis
 
-- 🧠 Autoconhecimento | Psicologia.
+<br>
 
-<br><br>
+---
 
+# 🛠️ Technologies
 
-## 🛠 &nbsp;Tech Stac
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Michel-HTML" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Michel-CSS" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Michel-Js" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Michel-Node" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Michel-vscode" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Michel-git" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Michel-React" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Michel-Python" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Michel-yarn" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-    <img align="center" alt="Michel-npm" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-    <img align="center" alt="Michel-linux" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Michel-ubuntu" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  </div>
-
-<br><br>
-
-
-## 👦🏻 &nbsp;Social Links
-
-<div>
-    <p align="left" style="background:yellow">
-      <a href="https://www.linkedin.com/in/michelc13/" target="_blank"><img
-          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-          target="_blank"></a>
-      <a href="https://codepen.io/michelk13" target="_blank"><img
-          src="https://img.shields.io/badge/-codepen.io-%23333?style=for-the-badge&logo=codepen.io&logoColor=white"
-          target="_blank"></a>
-      <a href="mailto:michel.mcs.admpf@gmail.com" target="_blank"><img
-          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      </p>
-  </div>
-   
-  
-<br><br>
-
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div>
 <p align="left">
-    <a href="https://github.com/michel-costa">
-      <img width="530em"
-        src="https://github-readme-stats.vercel.app/api?username=michel-costa&show_icons=true&theme=outrun"
-        alt="michel-costa's stats" />
-      <img width="530em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-costa&layout=compact&theme=outrun"
-        alt="michel-costa's most languages" />
-  </p>
- 
-  
-  </div>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,git,github,vscode,linux" />
+
+</p>
+
+---
+
+# ☁️ AWS Services
+
+<p align="left">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,ec2,s3,lambda,iam,vpc,rds,cloudwatch,route53,dynamodb" />
+
+</p>
+
+---
+
+# 🏆 Certifications
+
+<p>
+
+<a href="https://www.credly.com/badges/ede1c1c5-c2c7-4267-a9ec-de3e01f69f81/public_url">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+* AWS Cloud Computing
+* AWS Solutions Architecture
+* JavaScript
+* React
+* Python
+* Cloud Security
+* Artificial Intelligence Fundamentals
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michel-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-costa&layout=compact&langs_count=8&theme=dracula"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=michel-costa&theme=dracula&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/michelc13/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:michel.mcs.admpf@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Continuous learning is the key to building better solutions."*
+
+</div>
