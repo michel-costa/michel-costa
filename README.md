@@ -42,7 +42,7 @@
 
 ---
 
-```markdown
+
 # ☁️ AWS Services
 
 <p align="left">
@@ -57,7 +57,7 @@
 - AWS IAM
 - Amazon DynamoDB
 - Amazon CloudWatch
-```
+
 
 
 ---
